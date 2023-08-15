@@ -1,6 +1,7 @@
 # E-Commerce-API
+Hosted link:- https://e-commerce-api-xe6r.onrender.com/products
 
-
+Git repo clone:- https://github.com/krushnachandranayak/E-Commerce_API.git
 
 # ABOUT
 This is an E-commerce API made using Node.Js & MongoDB. 
